@@ -40,4 +40,5 @@
 <a href="https://github.com/msharibahmed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msharibahmed&theme=light&hide_langs_below=1" />
 </a>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="sharib-ahmed-b3b930174"><a class="LI-simple-link" href='https://in.linkedin.com/in/sharib-ahmed-b3b930174?trk=profile-badge'>Sharib Ahmed</a></div>
 
