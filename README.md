@@ -3,20 +3,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msharibahmed&label=Views&color=blue&style=plastic" alt="msharibahmed" /> </p>
 
 <a href="https://twitter.com/i_m_sharib">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sharib's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/sharib-ahmed-b3b930174">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sharib's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/msharibahmed">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Sharib's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <a href="https://instagram.com/i._.m._.sharib/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sharib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/MSharib786/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Sharib's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br/>
@@ -24,12 +24,12 @@
 
 
 
-- 💬 Ask me about Flutter or App Development.
+- 💬 Ask me about Flutter or App📱 Development.
 
 
 [![Twitter: i_m_sharib](https://img.shields.io/twitter/follow/i_m_sharib?style=social)](https://twitter.com/i_m_sharib)
 
-[![Instagram: i._.m._.sharib](https://img.shields.io/instagram/follow/i._.m._.sharib?style=social)](https://instagram.com/i._.m._.sharib)
+[![Instagram: i.__.m.___.sharib](https://img.shields.io/instagram/follow/i._.m._.sharib?style=social)](https://instagram.com/i._.m._.sharib)
 [![GitHub msharibahmed](https://img.shields.io/github/followers/msharibahmed?label=follow&style=social)](https://github.com/msharibahmed)
 
 
