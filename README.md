@@ -5,7 +5,7 @@
 <a href="https://twitter.com/i_m_sharib">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepk">
+<a href="https://linkedin.com/in/sharib-ahmed-b3b930174">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/msharibahmed">
@@ -27,7 +27,7 @@
 - 💬 Ask me about Flutter or App Development.
 
 [![Twitter: i_m_sharib](https://img.shields.io/twitter/follow/i_m_sharib?style=social)](https://twitter.com/i_m_sharib)
-[![Linkedin: sharib-ahmed-b3b930174](https://img.shields.io/badge/-sharib-ahmed-b3b930174-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharib-ahmed-b3b930174/)](https://www.linkedin.com/in/sharib-ahmed-b3b930174/)
+[![Linkedin: sharib](https://img.shields.io/badge/-sharib-ahmed-b3b930174-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharib-ahmed-b3b930174/)](https://www.linkedin.com/in/sharib-ahmed-b3b930174/)
 [![GitHub msharibahmed](https://img.shields.io/github/followers/msharibahmed?label=follow&style=social)](https://github.com/msharibahmed)
 
 
