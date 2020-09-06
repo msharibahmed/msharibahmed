@@ -29,7 +29,7 @@
 
 [![Twitter: i_m_sharib](https://img.shields.io/twitter/follow/i_m_sharib?style=social)](https://twitter.com/i_m_sharib)
 
-[![Instagram: i.__.m.___.sharib](https://img.shields.io/instagram/follow/i._.m._.sharib?style=social)](https://instagram.com/i._.m._.sharib)
+[![Instagram: i.___.m.___.sharib](https://img.shields.io/instagram/follow/i._.m._.sharib?style=social)](https://instagram.com/i._.m._.sharib)
 [![GitHub msharibahmed](https://img.shields.io/github/followers/msharibahmed?label=follow&style=social)](https://github.com/msharibahmed)
 
 
