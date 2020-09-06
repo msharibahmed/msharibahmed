@@ -22,6 +22,7 @@
 <br/>
 <br/>
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 
 - 💬 Ask me about Flutter or App📱 Development.
