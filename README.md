@@ -2,20 +2,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-<a href="https://twitter.com/imthepk">
+<a href="https://twitter.com/i_m_sharib">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/imthepk">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/msharibahmed">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://instagram.com/codepur_ka_superhero/">
+<a href="https://instagram.com/i._.m._.sharib/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/imthepk/">
+<a href="https://www.facebook.com/MSharib786/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -26,8 +26,8 @@
 
 - 💬 Ask me about Flutter or App Development.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/sharib-ahmed-b3b930174?style=social)](https://twitter.com/imthepk)
-[![Linkedin: sharib-ahmed-b3b930174](https://img.shields.io/badge/-sharib-ahmed-b3b930174-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/sharib-ahmed-b3b930174/)
+[![Twitter: i_m_sharib](https://img.shields.io/twitter/follow/i_m_sharib?style=social)](https://twitter.com/i_m_sharib)
+[![Linkedin: sharib-ahmed-b3b930174](https://img.shields.io/badge/-sharib-ahmed-b3b930174-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharib-ahmed-b3b930174/)](https://www.linkedin.com/in/sharib-ahmed-b3b930174/)
 [![GitHub msharibahmed](https://img.shields.io/github/followers/msharibahmed?label=follow&style=social)](https://github.com/msharibahmed)
 
 
