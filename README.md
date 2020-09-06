@@ -1,4 +1,4 @@
-##👋
+👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msharibahmed&label=Views&color=blue&style=plastic" alt="msharibahmed" /> </p>
 
