@@ -1,10 +1,8 @@
 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msharibahmed&label=Views&color=blue&style=plastic" alt="msharibahmed" /> </p>
-
 <br/>
 <br/>
-
 
 - 💬 Ask me about Flutter or App📱 Development.
 
