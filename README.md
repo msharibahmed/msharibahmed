@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-- 💬 Ask me about Flutter or App📱 Development.
+- 💬 Ask me about Flutter or Native App📱 Development.
 
 
 **Languages and Tools:**  
